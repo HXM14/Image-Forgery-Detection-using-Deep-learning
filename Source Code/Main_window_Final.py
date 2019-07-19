@@ -51,7 +51,7 @@ class MainWindow(QWidget):
         label.setText('Click training or testing to start the process:')
         label.setFont(QtGui.QFont("Sanserif", 8))
 
-        pixmap = QPixmap("C:\\Users\\Mohamed-PC\\PycharmProjects\\graduation_project\\icons8-cbs-512.png")
+        pixmap = QPixmap("*\\icons8-cbs-512.png")
         self.label = QLabel(self)
         self.label.setPixmap(pixmap)
         self.label.resize(190, 190)
