@@ -15,5 +15,6 @@ Those Models traind on Many Datasets to Achive Highest Accuracy
 1. MICCF2000 copyMove Dataset.
 2. CASIAV2 splicing Dataset.
 
-**Application Description**[libraries , Python version , IDE]
+**Application Description[libraries , Python version , IDE]**
+
 Application coded using GUI library PyQt5 , tensorflow Keras API , Numpy ,......etc .IDE used Pycharm community edition and Anaconda Enviroment with python 3.5.4.
