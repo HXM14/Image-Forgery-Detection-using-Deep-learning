@@ -15,6 +15,7 @@ Those Models traind on Many Datasets to Achive Highest Accuracy
 ### Application Description[libraries , Python version , IDE]
 Application coded using GUI library PyQt5 , tensorflow Keras API , Numpy ,......etc .IDE used Pycharm community edition and Anaconda Enviroment with python 3.5.4.
 ### References
-**[1]** Agus Gunawan[1], Holy Lovenia[2], Adrian Hartarto Pramudita[3] "Detection og Image tampering  With ELA and Deep learning" Informatics Engineering School of Electrical and Informatics Engineering, Bandung Institute of Technology
+**[1]** Agus Gunawan[1], Holy Lovenia[2], Adrian Hartarto Pramudita[3] "Detection og Image tampering  With ELA and Deep learning" Informatics Engineering School of Electrical and Informatics Engineering, Bandung Institute of Technology.
+
 **[2]** Nor Bakiah A. W.[1], Mohd. Yamani I. I. [2], Ainuddin Wahid A. W. [3], Rosli Salleh [4] "An Evaluation of Error Level Analysis in Image Forensics" in IEEE 5th International Conference on System Engineering and Technology, Aug 2015. 10 - 11, UiTM, Shah Alam, Malaysia.
 
