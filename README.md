@@ -5,7 +5,7 @@ This Project Compine Different Deep learning techniques and image processing tec
 
 You Can watch Application Demo From [Youtube](https://www.youtube.com/watch?v=8les9jfMM-U&t=111s)
 ### Models
-1. Error Level Analysis"ELA"[1][2] top Accuracy **(94.54% , epoc12)** You Can read More about ELA Frome [Here!](https://fotoforensics.com/tutorial-ela.php).
+1. Error Level Analysis"ELA" **[1][2]** top Accuracy **(94.54% , epoc12)** You Can read More about ELA Frome [Here!](https://fotoforensics.com/tutorial-ela.php).
 2. VGG16 Pretraind Model.
 3. VGG19 Pretraind Model.
 ### Datasets 
