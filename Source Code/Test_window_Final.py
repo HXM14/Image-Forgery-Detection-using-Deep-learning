@@ -326,7 +326,7 @@ class Test_window(QWidget):
             elif str(self.combo.currentText()) == "VGG19":
                 model = ".\\sys_models\\VGG19_Model.h5"
                 self.myThread = Thread()
-                label, prob = self.myThread.test_image_with_ela(self.file_path, model_path=model)
+                label, prob = self.myThread.test_image_with_vgg19(self.file_path, model_path=model)
                 self.myThread.start()
                 self.close()
                 self.result_window = ResultWindow(label, prob)

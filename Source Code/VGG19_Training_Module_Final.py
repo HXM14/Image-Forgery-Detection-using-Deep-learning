@@ -13,6 +13,7 @@ from keras import optimizers
 from PIL import Image
 import pandas as pd
 import os
+import random
 
 def train_VGG19_Model(csv_file , lr , ep):
     def step_decay_schedule(initial_lr=1e-3, decay_factor=0.75, step_size=10):
