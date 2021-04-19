@@ -2,6 +2,12 @@
  <a href="https://www.linkedin.com/in/hxazem/"><img src="https://user-images.githubusercontent.com/36288517/70856230-91739480-1ee0-11ea-9d85-6acd691642ab.png" alt="IFD"></a>
 </h1>
 
+
+[important Note]  this was my graduation project if you want to reuse it use only training py Files for training Models the whole application will not work and i didn't upload h5 files hich is trained models becuase it was about ~3GB size which is too much you can use kaggle API with colab to train models easily, thanks :) 
+
+
+
+
 # Image-Forgery-Detection-using-Deep-learning
 Image processing with convolutional neural network to detect tampering in image 
 ## Project Description
