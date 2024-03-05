@@ -3,7 +3,7 @@
 </h1>
 
 
-[important Note]  this was my graduation project if you want to reuse it use only training py Files for training Models the whole application will not work as this was for local testing omly and i didn't upload h5 files hich is trained models becuase it was about ~3GB size which is too much you can use kaggle API with colab to train models easily, thanks :) 
+[important Note]  this was my graduation project if you want to reuse it use only training py Files for training Models the whole application will not work as this was for local testing only and i didn't upload h5 files which is trained models because it was about ~3GB size which is too much you can use Kaggle API with collab to train models easily, thanks :) 
 
 
 
